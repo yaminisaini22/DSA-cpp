@@ -1,1 +1,2 @@
-Number of Duplicates 5
+output of brute force solution: 6
+output of optimal solution: 6
